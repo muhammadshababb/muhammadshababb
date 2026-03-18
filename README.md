@@ -20,15 +20,13 @@
 ---
 
 ## 🛠️ Skills
-<p align="center">
+## 🛠️ Skills
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,git" />
 <br><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
 </p>
-</p>
-
 ---
 
 ## 📌 Project
