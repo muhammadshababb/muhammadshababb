@@ -26,7 +26,7 @@
 <br><br>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </p>
 
 ## 📌 Project
