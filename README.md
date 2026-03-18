@@ -13,9 +13,10 @@
 
 ## 🚀 About Me
 - 💻 Passionate about Data Analysis  
-- 📊 Working with Python & Pandas  
+- 📊 Skilled in Excel, Power BI & Dashboard Creation  
+- 🐍 Working with Python & Pandas  
 - 🌱 Currently learning Data Science  
-- 🎯 Goal: Become a Data Analyst  
+- 🎯 Goal: Become a Data Analyst   
 
 ---
 
