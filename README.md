@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,git" height="48" style="vertical-align:middle;"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" style="vertical-align:middle;"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="48" style="vertical-align:middle;"/>
+<img src="https://img.icons8.com/fluency/48/power-bi.png" height="48" style="vertical-align:middle;"/>
 </p>
 
 ## 📌 Project
