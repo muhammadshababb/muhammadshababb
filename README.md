@@ -49,4 +49,4 @@
 -  🔗 LinkedIn:www.linkedin.com/in/muhammadsshabab
 -  💻 GitHub: https://github.com/muhammadshababb
 -  📊 Kaggle: https://kaggle.com/muhammadshabab
--  🌐 Portfolio: https://muhammadshababb.github.io/portfolio-website/
+-  🌐 Portfolio: https://muhammadshababb.github.io/Portfolio-Web/
