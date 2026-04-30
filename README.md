@@ -26,10 +26,7 @@
 <img src="https://skillicons.dev/icons?i=python,html,css,git" height="48" style="vertical-align:middle;"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" style="vertical-align:middle;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/>
-</p>
-
-## 📌 Project
-- 🔹 IBM Data Science Capstone  
+</p> 
 
 ---
 
